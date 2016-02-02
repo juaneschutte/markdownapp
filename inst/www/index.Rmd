@@ -1,5 +1,5 @@
 ---
-title: "R Markdown Website"
+title: "Juane's Markdown Website for Prototypes"
 output: html_document
 ---
 
